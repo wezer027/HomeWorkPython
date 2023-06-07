@@ -39,3 +39,4 @@ def reverse(n: int) -> None:
 n = int(input())
 reverse(n)
 """
+
